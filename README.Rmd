@@ -1,0 +1,38 @@
+---
+title: ""
+output: md_document
+always_allow_html: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## Show script
+
+
+```{r pressure, echo=FALSE}
+library("tidyverse")
+library("kableExtra")
+library("scholar")
+library("readxl")
+
+raw_data <- read_xlsx("raw_data.xlsx")
+
+journal_list <- raw_data$Journal
+
+journal_if <- get_impactfactor(journal_list, max.distance = 0.05)
+
+journal_full <- left_join(raw_data, journal_if, by = "Journal")
+
+journal_full <- journal_full %>%
+  mutate(Journal = str_to_title(Journal))
+
+journal_full %>%
+  select(-url_source) %>%
+  kable(., format = "markdown") %>%
+  kable_styling()
+```
+
+FIN
