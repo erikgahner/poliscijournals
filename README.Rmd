@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-# Show script
+# Word limits
 
 
 ```{r generateTable, echo=FALSE, message=FALSE, warning=FALSE}
@@ -31,10 +31,17 @@ journal_full <- journal_full %>%
 
 journal_full %>%
   arrange(-ImpactFactor) %>%
-  mutate(Title = paste0("[", Journal, "](", url_source, ")")) %>%
-  select(Journal = Title, `Article: Word limit` = article_wordlimit, `Letter: Word limit` = letter_limit, `Impact factor` = ImpactFactor, Eigenfactor) %>%
+  mutate(Journal = str_replace(Journal, " Of ", " of "),
+         Journal = str_replace(Journal, "Jcms-", "JCMS: "),
+         Title = paste0("[", Journal, "](", url_source, ")"),
+         article = if_else(is.na(article), " ", article),
+         letter = if_else(is.na(letter), " ", letter),
+         review = if_else(is.na(review), " ", review)) %>%
+  select(Journal = Title, `Article` = article, `Letter` = letter, `Review` = review, `Impact factor` = ImpactFactor) %>%
   kable(., format = "markdown") %>%
   kable_styling()
 ```
 
-FIN
+# Other resources
+
+-
