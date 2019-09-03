@@ -31,12 +31,8 @@ journal_full <- journal_full %>%
 
 journal_full %>%
   arrange(-ImpactFactor) %>%
-  mutate_at(.vars = vars(article, letter),
-        .funs = funs(. = case_when(
-          . == 1 ~ "Yes",
-          . == 0 ~ "No"
-        ))) %>%
-  select(Journal = Journal, Article = article_., `Article: Word limit` = article_wordlimit, Letter = letter, `Letter: Word limit` = letter_limit, `Impact factor` = ImpactFactor, Eigenfactor) %>%
+  mutate(Title = paste0("[", Journal, "](", url_source, ")")) %>%
+  select(Journal = Title, `Article: Word limit` = article_wordlimit, `Letter: Word limit` = letter_limit, `Impact factor` = ImpactFactor, Eigenfactor) %>%
   kable(., format = "markdown") %>%
   kable_styling()
 ```
