@@ -30,6 +30,7 @@ journal_full <- journal_full %>%
   mutate(Journal = str_to_title(Journal))
 
 journal_full %>%
+  arrange(-ImpactFactor) %>%
   mutate_at(.vars = vars(article, letter),
         .funs = funs(. = case_when(
           . == 1 ~ "Yes",

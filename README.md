@@ -24,15 +24,6 @@ Show script
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">American Political Science Review</td>
-<td align="left">Yes</td>
-<td align="right">12000</td>
-<td align="right">1</td>
-<td align="right">4000</td>
-<td align="right">3.252</td>
-<td align="right">0.01933</td>
-</tr>
-<tr class="even">
 <td align="left">American Journal Of Political Science</td>
 <td align="left">Yes</td>
 <td align="right">NA</td>
@@ -40,6 +31,15 @@ Show script
 <td align="right">NA</td>
 <td align="right">5.220</td>
 <td align="right">0.02376</td>
+</tr>
+<tr class="even">
+<td align="left">American Political Science Review</td>
+<td align="left">Yes</td>
+<td align="right">12000</td>
+<td align="right">1</td>
+<td align="right">4000</td>
+<td align="right">3.252</td>
+<td align="right">0.01933</td>
 </tr>
 </tbody>
 </table>
