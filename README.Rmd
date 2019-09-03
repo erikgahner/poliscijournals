@@ -9,10 +9,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-## Show script
+# Show script
 
 
-```{r pressure, echo=FALSE}
+```{r generateTable, echo=FALSE, message=FALSE, warning=FALSE}
 library("tidyverse")
 library("kableExtra")
 library("scholar")
@@ -30,7 +30,12 @@ journal_full <- journal_full %>%
   mutate(Journal = str_to_title(Journal))
 
 journal_full %>%
-  select(-url_source) %>%
+  mutate_at(.vars = vars(article, letter),
+        .funs = funs(. = case_when(
+          . == 1 ~ "Yes",
+          . == 0 ~ "No"
+        ))) %>%
+  select(Journal = Journal, Article = article_., `Article: Word limit` = article_wordlimit, Letter = letter, `Letter: Word limit` = letter_limit, `Impact factor` = ImpactFactor, Eigenfactor) %>%
   kable(., format = "markdown") %>%
   kable_styling()
 ```
