@@ -12,29 +12,25 @@ library("readxl")
 
 raw_data <- read_xlsx("raw_data.xlsx")
 
-journal_list <- raw_data$Journal
-
-journal_if <- get_impactfactor(journal_list, max.distance = 0.05)
+journal_if <- get_impactfactor(raw_data$Journal, max.distance = 0.05)
 
 journal_full <- left_join(raw_data, journal_if, by = "Journal")
 
-journal_full <- journal_full %>%
-  mutate(Journal = str_to_title(Journal))
-
 journal_full %>%
   arrange(-ImpactFactor) %>%
-  mutate(Journal = str_replace(Journal, " Of ", " of "),
+  mutate(Journal = str_to_title(Journal),
+         Journal = str_replace(Journal, " Of ", " of "),
          Journal = str_replace(Journal, "Jcms-", "JCMS: "),
          Title = paste0("[", Journal, "](", url_source, ")"),
          article = if_else(is.na(article), " ", article),
          letter = if_else(is.na(letter), " ", letter),
          review = if_else(is.na(review), " ", review),
          ImpactFactor = round(ImpactFactor, 2)) %>%
-  select(Journal = Title, `Article` = article, `Letter` = letter, `Review` = review, `Impact factor` = ImpactFactor) %>%
+  select(Journal = Title, `Long article` = article, `Short article` = letter, `Review` = review, `Impact factor` = ImpactFactor) %>%
   kable(., format = "markdown") %>%
   kable_styling()
 ```
 
 # Other resources
 
--
+- [Research notes in political science journals](https://resulumit.com/blog/polisci-research-notes/)

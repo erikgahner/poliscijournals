@@ -5,8 +5,8 @@ Word limits
 <thead>
 <tr class="header">
 <th align="left">Journal</th>
-<th align="left">Article</th>
-<th align="left">Letter</th>
+<th align="left">Long article</th>
+<th align="left">Short article</th>
 <th align="left">Review</th>
 <th align="right">Impact factor</th>
 </tr>
@@ -60,4 +60,5 @@ Word limits
 Other resources
 ===============
 
--
+-   [Research notes in political science
+    journals](https://resulumit.com/blog/polisci-research-notes/)
