@@ -1,16 +1,8 @@
 ---
-title: ""
 output: md_document
-always_allow_html: yes
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-
-```
-
 # Word limits
-
 
 ```{r generateTable, echo=FALSE, message=FALSE, warning=FALSE}
 library("tidyverse")
@@ -36,7 +28,8 @@ journal_full %>%
          Title = paste0("[", Journal, "](", url_source, ")"),
          article = if_else(is.na(article), " ", article),
          letter = if_else(is.na(letter), " ", letter),
-         review = if_else(is.na(review), " ", review)) %>%
+         review = if_else(is.na(review), " ", review),
+         ImpactFactor = round(ImpactFactor, 2)) %>%
   select(Journal = Title, `Article` = article, `Letter` = letter, `Review` = review, `Impact factor` = ImpactFactor) %>%
   kable(., format = "markdown") %>%
   kable_styling()
