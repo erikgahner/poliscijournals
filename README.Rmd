@@ -2,7 +2,7 @@
 output: md_document
 ---
 
-# Word limits
+# Word limits in political science journals
 
 ```{r generateTable, echo=FALSE, message=FALSE, warning=FALSE}
 library("tidyverse")
