@@ -1,6 +1,5 @@
 ---
 output: md_document
-always_allow_html: yes
 ---
 
 # Word limits in political science journals
@@ -29,9 +28,8 @@ journal_full %>%
          review = if_else(is.na(review), " ", review),
          ImpactFactor = round(ImpactFactor, 2)) %>%
   select(Journal = Title, `Long article` = article, `Short article` = letter, `Review` = review, `Impact factor` = ImpactFactor) %>%
-  kable(.) %>% # , format = "markdown"
-  kable_styling(full_width = FALSE) %>%
-  column_spec(1, width = "60%")
+  kable(., format = "markdown") %>% 
+  kable_styling()
 ```
 
 # Other resources
