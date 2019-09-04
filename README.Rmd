@@ -21,6 +21,7 @@ journal_full %>%
   mutate(Journal = str_to_title(Journal),
          Journal = str_replace(Journal, " Of ", " of "),
          Journal = str_replace(Journal, "Jcms-", "JCMS: "),
+         Journal = str_replace(Journal, "-An International Journal of Policy Administration And Institutions", ""),
          Title = paste0("[", Journal, "](", url_source, ")"),
          article = if_else(is.na(article), " ", article),
          letter = if_else(is.na(letter), " ", letter),

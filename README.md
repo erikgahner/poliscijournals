@@ -3,11 +3,11 @@ Word limits
 
 <table style="width:100%;">
 <colgroup>
-<col width="73%" />
+<col width="72%" />
 <col width="6%" />
+<col width="7%" />
 <col width="6%" />
-<col width="6%" />
-<col width="6%" />
+<col width="7%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -27,7 +27,7 @@ Word limits
 <td align="right">5.22</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="https://onlinelibrary.wiley.com/page/journal/14680491/homepage/forauthors.html">Governance-An International Journal of Policy Administration And Institutions</a></td>
+<td align="left"><a href="https://onlinelibrary.wiley.com/page/journal/14680491/homepage/forauthors.html">Governance</a></td>
 <td align="left">9,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
