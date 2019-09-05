@@ -37,3 +37,7 @@ journal_full %>%
 # Other resources
 
 - [Research notes in political science journals](https://resulumit.com/blog/polisci-research-notes/)
+
+# Acknowledgements
+
+Thanks to Juraj Medzihorsky.
