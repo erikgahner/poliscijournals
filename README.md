@@ -237,53 +237,81 @@ Word limits in political science journals
 <td align="right">2.00</td>
 </tr>
 <tr class="even">
+<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/european-union-politics#submission-guidelines">European Union Politics</a></td>
+<td align="left">9,000 words</td>
+<td align="left">2,000 words</td>
+<td align="left"></td>
+<td align="right">1.88</td>
+</tr>
+<tr class="odd">
 <td align="left"><a href="https://www.springer.com/political+science/journal/11109">Political Behavior</a></td>
 <td align="left">35 pages</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">1.88</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?journalCode=fsst20&amp;page=instructions#words">Security Studies</a></td>
 <td align="left">15,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">1.78</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><a href="https://us.sagepub.com/en-us/nam/political-studies/journal202479#submission-guidelines">Political Studies</a></td>
 <td align="left">10,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">1.71</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><a href="http://www.sagepub.com/journals/Journal201839#submission-guidelines">Political Research Quarterly</a></td>
 <td align="left">10,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">1.52</td>
 </tr>
+<tr class="odd">
+<td align="left"><a href="https://jcp.gc.cuny.edu/submission/style-sheet/">Comparative Politics</a></td>
+<td align="left">12,000 words</td>
+<td align="left">6,000 words</td>
+<td align="left"></td>
+<td align="right">1.38</td>
+</tr>
 <tr class="even">
+<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/international-political-science-review#submission-guidelines">International Political Science Review</a></td>
+<td align="left">8,000 words</td>
+<td align="left">6,000 words</td>
+<td align="left">6,000 words</td>
+<td align="right">1.32</td>
+</tr>
+<tr class="odd">
 <td align="left"><a href="https://onlinelibrary.wiley.com/page/journal/19399162/homepage/forauthors.html">Legislative Studies Quarterly</a></td>
 <td align="left">10,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">1.30</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><a href="https://www.elsevier.com/journals/electoral-studies/0261-3794/guide-for-authors">Electoral Studies</a></td>
 <td align="left">10,000 words</td>
 <td align="left">6,000 words</td>
 <td align="left"></td>
 <td align="right">1.20</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/journal-theoretical-politics#submission-guidelines">Journal of Theoretical Politics</a></td>
 <td align="left">7,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">1.17</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/american-politics-research#submission-guidelines">American Politics Research</a></td>
+<td align="left">25 pages</td>
+<td align="left">10 pages</td>
+<td align="left"></td>
+<td align="right">1.09</td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://us.sagepub.com/en-us/nam/political-studies-review/journal202480#submission-guidelines">Political Studies Review</a></td>
@@ -293,15 +321,43 @@ Word limits in political science journals
 <td align="right">1.00</td>
 </tr>
 <tr class="even">
+<td align="left"><a href="https://onlinelibrary.wiley.com/page/journal/14679477/homepage/forauthors.html">Scandinavian Political Studies</a></td>
+<td align="left">9,000 words</td>
+<td align="left">4,000 words</td>
+<td align="left">3,000 words</td>
+<td align="right">0.45</td>
+</tr>
+<tr class="odd">
 <td align="left"><a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/information/instructions-contributors">Journal of Experimental Political Science</a></td>
 <td align="left">4,000 words</td>
 <td align="left">1,000 words</td>
 <td align="left"></td>
 <td align="right">NA</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/information/instructions-contributors">Political Science Research And Methods</a></td>
 <td align="left">9,000 words</td>
+<td align="left">4,000 words</td>
+<td align="left"></td>
+<td align="right">NA</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?journalCode=fbep20&amp;page=instructions">Journal of Elections, Public Opinion And Parties</a></td>
+<td align="left">8,000 words</td>
+<td align="left">4,000 words</td>
+<td align="left"></td>
+<td align="right">NA</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=prxx20">Political Research Exchange</a></td>
+<td align="left">12,000 words</td>
+<td align="left">8,000 words</td>
+<td align="left">12,000 words</td>
+<td align="right">NA</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=rrep20">Representation: Journal of Representative Democracy</a></td>
+<td align="left">8,000 words</td>
 <td align="left">4,000 words</td>
 <td align="left"></td>
 <td align="right">NA</td>
