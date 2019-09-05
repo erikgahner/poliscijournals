@@ -48,7 +48,7 @@ Word limits in political science journals
 <td align="right">4.13</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://academic.oup.com/jpart/pages/Instructions_To_Authors">Journal of Public Administration Research And Theory</a></td>
+<td align="left"><a href="https://academic.oup.com/jpart/pages/Instructions_To_Authors">Journal of Public Administration Research and Theory</a></td>
 <td align="left">12,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -335,14 +335,14 @@ Word limits in political science journals
 <td align="right">NA</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/information/instructions-contributors">Political Science Research And Methods</a></td>
+<td align="left"><a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/information/instructions-contributors">Political Science Research and Methods</a></td>
 <td align="left">9,000 words</td>
 <td align="left">4,000 words</td>
 <td align="left"></td>
 <td align="right">NA</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?journalCode=fbep20&amp;page=instructions">Journal of Elections, Public Opinion And Parties</a></td>
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?journalCode=fbep20&amp;page=instructions">Journal of Elections, Public Opinion and Parties</a></td>
 <td align="left">8,000 words</td>
 <td align="left">4,000 words</td>
 <td align="left"></td>
@@ -356,7 +356,7 @@ Word limits in political science journals
 <td align="right">NA</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=rrep20">Representation: Journal of Representative Democracy</a></td>
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=rrep20">Representation</a></td>
 <td align="left">8,000 words</td>
 <td align="left">4,000 words</td>
 <td align="left"></td>
