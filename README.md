@@ -356,7 +356,7 @@ Word limits in political science journals
 <td align="right">2.07</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?journalCode=rtep20&amp;page=instructions#Word_limits">Territory Politics Governance</a></td>
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?journalCode=rtep20&amp;page=instructions#Word_limits">Territory, Politics, Governance</a></td>
 <td align="left">10,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -468,7 +468,7 @@ Word limits in political science journals
 <td align="right">1.64</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://www.apsanet.org/perspectivessubmissions">Perspectives On Politics</a></td>
+<td align="left"><a href="https://www.apsanet.org/perspectivessubmissions">Perspectives on Politics</a></td>
 <td align="left">12,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -552,7 +552,7 @@ Word limits in political science journals
 <td align="right">1.42</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/millennium#submission-guidelines">Millennium-Journal of International Studies</a></td>
+<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/millennium#submission-guidelines">Millennium: Journal of International Studies</a></td>
 <td align="left">9,000 words</td>
 <td align="left">5,000 words</td>
 <td align="left"></td>
@@ -580,7 +580,7 @@ Word limits in political science journals
 <td align="right">1.40</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://academic.oup.com/publius/pages/Instructions_To_Authors">Publius-The Journal of Federalism</a></td>
+<td align="left"><a href="https://academic.oup.com/publius/pages/Instructions_To_Authors">Publius: The Journal of Federalism</a></td>
 <td align="left">10,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -902,7 +902,7 @@ Word limits in political science journals
 <td align="right">NA</td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="https://www.apsanet.org/pssubmissions">Ps: Political Science and Politics</a></td>
+<td align="left"><a href="https://www.apsanet.org/pssubmissions">PS: Political Science and Politics</a></td>
 <td align="left">3,650 words</td>
 <td align="left"></td>
 <td align="left"></td>
