@@ -62,25 +62,39 @@ Word limits in political science journals
 <td align="right">3.83</td>
 </tr>
 <tr class="odd">
+<td align="left"><a href="https://academic.oup.com/joc/pages/General_Instructions#Submission%20Guidelines">Journal of Communication</a></td>
+<td align="left">35 pages</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="right">3.73</td>
+</tr>
+<tr class="even">
 <td align="left"><a href="https://ejpr.onlinelibrary.wiley.com/hub/journal/14756765/homepage/forauthors.html">European Journal of Political Research</a></td>
 <td align="left">10,000 words</td>
 <td align="left">5,000 words</td>
 <td align="left">5,000 words</td>
 <td align="right">3.58</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left"><a href="https://www.elsevier.com/journals/political-geography/0962-6298/guide-for-authors">Political Geography</a></td>
 <td align="left">11,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">3.50</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/journal-conflict-resolution#submission-guidelines">Journal of Conflict Resolution</a></td>
 <td align="left">11,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
 <td align="right">3.49</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/communication-research#submission-guidelines">Communication Research</a></td>
+<td align="left">35 pages</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="right">3.39</td>
 </tr>
 <tr class="even">
 <td align="left"><a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/information/instructions-contributors">British Journal of Political Science</a></td>
@@ -265,7 +279,7 @@ Word limits in political science journals
 <td align="right">2.50</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="http://www.sagepub.com/journals/Journal201283#submission-guidelines">International Journal of Press-Politics</a></td>
+<td align="left"><a href="http://www.sagepub.com/journals/Journal201283#submission-guidelines">International Journal of Press/Politics</a></td>
 <td align="left">8,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
