@@ -929,6 +929,13 @@ Word limits in political science journals
 <td align="left"></td>
 <td align="right">NA</td>
 </tr>
+<tr class="odd">
+<td align="left"><a href="https://us.sagepub.com/en-us/nam/journal/research-politics#submission-guidelines">Research &amp; Politics</a></td>
+<td align="left">4,000 words</td>
+<td align="left">2,000 words</td>
+<td align="left"></td>
+<td align="right">NA</td>
+</tr>
 </tbody>
 </table>
 
