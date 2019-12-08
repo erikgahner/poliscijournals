@@ -573,7 +573,7 @@ Word limits in political science journals
 <td align="right">1.42</td>
 </tr>
 <tr class="even">
-<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=uter20#words">Studies In Conflict &amp; Terrorism</a></td>
+<td align="left"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=uter20#words">Studies in Conflict &amp; Terrorism</a></td>
 <td align="left">12,000 words</td>
 <td align="left"></td>
 <td align="left"></td>
@@ -934,6 +934,13 @@ Word limits in political science journals
 <td align="left">4,000 words</td>
 <td align="left">2,000 words</td>
 <td align="left"></td>
+<td align="right">NA</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="https://www.frontiersin.org/journals/political-science#author-guidelines">Frontiers in Political Science</a></td>
+<td align="left">12,000 words</td>
+<td align="left">4,000 words</td>
+<td align="left">12,000 words</td>
 <td align="right">NA</td>
 </tr>
 </tbody>

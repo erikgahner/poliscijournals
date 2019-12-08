@@ -27,6 +27,7 @@ journal_full %>%
          Journal = str_replace(Journal, "Publius-", "Publius: "),
          Journal = str_replace(Journal, "Millennium-", "Millennium: "),
          Journal = str_replace(Journal, " On ", " on "),
+         Journal = str_replace(Journal, " In ", " in "),
          Journal = str_replace(Journal, "Territory Politics Governance", "Territory, Politics, Governance"),
          Journal = str_replace(Journal, ": Journal of Representative Democracy", ""),
          Journal = str_replace(Journal, "Press-Politics", "Press/Politics"),
