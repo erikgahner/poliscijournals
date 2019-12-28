@@ -950,6 +950,13 @@ Word limits in political science journals
 <td align="left">12,000 words</td>
 <td align="right">NA</td>
 </tr>
+<tr class="even">
+<td align="left"><a href="https://www.cambridge.org/core/journals/politics-and-the-life-sciences/information/instructions-contributors">Politics and The Life Sciences</a></td>
+<td align="left">15,000 words</td>
+<td align="left">5,000 words</td>
+<td align="left">10,000 words</td>
+<td align="right">NA</td>
+</tr>
 </tbody>
 </table>
 
