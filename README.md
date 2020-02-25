@@ -957,6 +957,13 @@ Word limits in political science journals
 <td align="left">10,000 words</td>
 <td align="right">NA</td>
 </tr>
+<tr class="odd">
+<td align="left"><a href="https://onlinelibrary.wiley.com/page/journal/23806567/homepage/forauthors.html">European Policy Analysis</a></td>
+<td align="left">8,000 words</td>
+<td align="left"></td>
+<td align="left"></td>
+<td align="right">NA</td>
+</tr>
 </tbody>
 </table>
 
