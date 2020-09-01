@@ -45,7 +45,7 @@ Word limits in political science journals
 <td style="text-align: left;">15,000 words</td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: right;">4.13</td>
+<td style="text-align: right;">4.14</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><a href="https://academic.oup.com/jpart/pages/Instructions_To_Authors">Journal of Public Administration Research and Theory</a></td>
@@ -409,7 +409,7 @@ Word limits in political science journals
 <td style="text-align: left;">9,000 words</td>
 <td style="text-align: left;">2,000 words</td>
 <td style="text-align: left;"></td>
-<td style="text-align: right;">1.88</td>
+<td style="text-align: right;">1.89</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><a href="https://www.springer.com/political+science/journal/11109">Political Behavior</a></td>
