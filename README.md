@@ -1,5 +1,4 @@
-Word limits in political science journals
-=========================================
+# Word limits in political science journals
 
 <table>
 <colgroup>
@@ -974,13 +973,11 @@ Word limits in political science journals
 </tbody>
 </table>
 
-Other resources
-===============
+# Other resources
 
 -   [Research notes in political science
     journals](https://resulumit.com/blog/polisci-research-notes/)
 
-Acknowledgements
-================
+# Acknowledgements
 
 Thanks to Juraj Medzihorsky.
