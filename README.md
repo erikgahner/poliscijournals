@@ -975,6 +975,8 @@
 
 # Other resources
 
+-   [Political Science Journals: An app that filters data on political
+    science journals](https://resulumit.shinyapps.io/psjournals/)
 -   [Research notes in political science
     journals](https://resulumit.com/blog/polisci-research-notes/)
 
