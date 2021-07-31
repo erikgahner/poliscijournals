@@ -754,9 +754,9 @@
 <td style="text-align: right;">1.00</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><a href="https://www.elsevier.com/journals/the-social-science-journal/0362-3319/guide-for-authors">Social Science Journal</a></td>
+<td style="text-align: left;"><a href="https://www.tandfonline.com/action/authorSubmission?show=instructions&amp;journalCode=ussj20">Social Science Journal</a></td>
 <td style="text-align: left;">25 pages</td>
-<td style="text-align: left;">10 pages</td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: right;">1.00</td>
 </tr>
